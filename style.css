@@ -1,0 +1,71 @@
+body{
+	background-color: white;
+	font-size: 20px;
+
+}
+
+
+h1{
+	color: #FFB616;
+	font-family: 'Raleway', sans-serif;
+	font-size: 50px;
+	background-image: url(https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1416&q=80);
+	background-repeat: no-repeat;
+	height: 30vw;
+	width: 100vw;
+	padding: 20px;
+}
+
+h2{
+	font-family: 'Karla', sans-serif;
+	padding: 5px 5px 0px;
+}
+
+h3{
+	color: white;
+	font-family: 'Karla', sans-serif;
+	padding: 5px 5px 5px;
+	border: white 2px dashed;
+	margin: 0px 0px 30px;
+	background-color: #FFB616;
+	text-align: center;
+	width:25%;
+	align-self: center;
+}
+.flex {
+	display: flex;
+	flex-direction: column;
+}
+
+
+p{
+	color: black;
+	font-family: 'Karla', sans-serif;
+}
+
+ul p{
+	color: black
+}
+
+img{
+	height: 20vw;
+	width: 30vw;
+}
+
+.titles {
+	text-align: center;
+	width: 100vw;
+}
+
+.cities {
+	border-color: pink;
+	border-style: dashed;
+}
+
+.fab {
+	color: black;
+}
+
+.fab:hover{
+	font-size: 50px;
+}
